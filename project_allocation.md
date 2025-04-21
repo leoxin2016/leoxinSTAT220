@@ -15,6 +15,9 @@
 
 ### Schedule:
 By week 6: Complete the team meeting to confirm the domain model class features.
+
 By week 7: Each member completes his tasks of development and integration testing.
+
 By week 8: Conduct Code review and perform client web application testing, try to open the application via the hyperlink http://localhost:10000/concert-webapp/.
+
 By week 9: Push the final code to the `submission branch`.  
